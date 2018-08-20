@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1534643908 source:c:\users\salymz\desktop\evasiveprogramming\main.c
+	<stdio.h>
+	<stdlib.h>
+	"voice.h"
+	"mainfunction.h"
+
+1534643552 c:\users\salymz\desktop\evasiveprogramming\voice.h
+
+1534640692 c:\users\salymz\desktop\evasiveprogramming\mainfunction.h
+
+1534720775 source:c:\users\salymz\desktop\evasiveprogramming\voice.c
+	<stdio.h>
+	"voice.h"
+	"mainfunction.h"
+
