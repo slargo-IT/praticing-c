@@ -1,6 +1,7 @@
 // praticing-c
 // me practicing c language
-// From pointers to Data Struct
+// From Array to Data Struct, Files, Piles,
+// IN, OUT, UNIX, STDLIB
 // all basic stuff
-// more specifics subtopic on other branches
+// more specifics subtopic on other repository
 // like Machine Learning && Security
