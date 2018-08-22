@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1534961610 source:c:\users\th010101\desktop\inspirationduparc\conversation.c
+
+1534961412 c:\users\th010101\desktop\inspirationduparc\header.h
+
+1534966919 source:c:\users\th010101\desktop\inspirationduparc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1534961319 c:\users\th010101\desktop\inspirationduparc\conversation.c
+	<stdio.h>
+	"header.h"
+
