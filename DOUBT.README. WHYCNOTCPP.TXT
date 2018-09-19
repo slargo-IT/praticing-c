@@ -1,13 +1,8 @@
-Spend 5 days configuring Unreal Engine Cry Engine Unity to test AAA engines to make 
-some AI for a game.
+I don't want to use c++, which appear to be a total waste of time for me. Why ?
+Because i want to create AI for Robotic purposes, at this level you need to understand all of
+the memory allocation, gesture.
 
-Unreal Engine is a total crap, take 10 to 15 to compile BLANK <code> 
-CryEngine is a little bit better on compile, no assets intresting.
-Unity is for C# purposes. Not mines.
-
-As i loose some times i realize that only C++ language is support for Unreal & CryEngine.
-
-I don't want to use c++, which appear to be a total waste of time for me, I love the idiomatic C and i will use it. 
+But more : C is way more portable than C++ / OpenCL & OpenGL & are made in C / Git is made in C / Ubuntu as well / ML algo runs way better in C than C++, and IoT machine learning requiered to be portable.
 
 So i choose thoses soft and solutions to build my AI API:
 
@@ -17,7 +12,5 @@ OpenGL in C using codeblocks
 
 SDL2.0 in C using Codeblocks
 
-SDL1.0 in C using Codeblocks
-
-Tensorflow API in C using gedit or codeblocks
+Tensorflow API in C using sublimetext or codeblocks
 
